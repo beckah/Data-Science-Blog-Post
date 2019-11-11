@@ -36,9 +36,6 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to the following organization for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle links provided 
-* World Happiness Report [(info)](https://www.kaggle.com/PromptCloudHQ/world-happiness-report-2019)  
-* The Heritage Foundation [(info)](https://www.kaggle.com/lewisduncan93/the-economic-freedom-index)
-* World Health Organization [(info)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
+Credit to [Kaggle](https://www.kaggle.com/c/kaggle-survey-2019/data) for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link provided.
 
 Otherwise, feel free to use the code here as you would like!
